@@ -10,7 +10,7 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [seeen2006@gmail.com](mailto:seeen2006@gmail.com)
 * 🧠  I'm currently learning C++
-* 💬  Ask me about I code best with music. 🎧
+* 💬  I code best with music. 🎧
 
 ### Skills
 
