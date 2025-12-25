@@ -12,7 +12,7 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 * 🧠  I'm currently learning C++
 * ⚡  I code best with music. 🎧
 
-## 𓂃✍︎ Education
+# 𓂃✍︎ Education
 ### 🏫 **Primary School** (🗓️ 2013 - 2018)
 - 📍[SJK (C) Foon Yew 5](https://maps.app.goo.gl/q4A13XmVCH1rbxSX6?g_st=aw)
 &nbsp;&nbsp;&nbsp;&nbsp;- **UPSR:** 8A
@@ -28,7 +28,7 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 - 📍[Universiti Teknologi Malaysia (UTM)](https://maps.app.goo.gl/1oFMCkuPA9o1qP7Z7?g_st=aw)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- **Course:** Bachelor of Computer Science (Data Engineering) with Honours
 
-## 🎀 Position 
+# 🎀 Position 
 - **SJK (C) Foon Yew 5**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Class Monitor (2013)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Prefect (2015)<br>
@@ -40,7 +40,7 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 &nbsp;&nbsp;&nbsp;&nbsp;- Committee Member of Drama Club (2020 - 2022)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Committee Member of Cheerleading Club (2023)<br>
 
-## 🏅 Awards
+# 🏅 Awards
 - **SJK (C) Foon Yew 5**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Pertandingan Bercerita -- Ketiga (2015)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Kuiz Bahasa Melayu -- Saguhati (2016)<br>
@@ -53,26 +53,26 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 - **Seri Omega Private and International School**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Annual School Sports 2023: Cheerleading Team -- 1st Place<br>
 
-## Skills
+# Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
 
-## 📖 Courses
+# 📖 Courses
 - 📊 [SECI1013 Discrete Structure](https://github.com/shelonyong/Year-1_Sem-1/tree/main/SECI1013%20Discrete%20Structure)
 - 👩🏻‍💻 [SECJ1013 Programming Technique I](https://github.com/shelonyong/Year-1_Sem-1/tree/main/SECJ1013%20Programming%20Technique%201)
 - 🌐 [SECP1513 Technology and Information System](https://github.com/shelonyong/Year-1_Sem-1/tree/main/SECP1513%20Technology%20And%20Information%20System)
 - 📟 [SECR1013 Digital Logic](https://github.com/shelonyong/Year-1_Sem-1/tree/main/SECR1013%20Digital%20Logic)
 - ⚖️ [ULRS1032 Integrity and Anti-Corruption](https://github.com/shelonyong/Year-1_Sem-1/tree/main/ULRS1032%20Integrity%20And%20Anti-Corruption%20Course)
   
-## Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/shelonyong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/yongseeen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/shelonyong" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shelonyong?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## Badges
+# Badges
 
 <b>My GitHub Stats</b>
 
