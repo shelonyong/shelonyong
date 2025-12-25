@@ -34,6 +34,8 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 &nbsp;&nbsp;&nbsp;&nbsp;- Prefect (2015)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Secretary of Chess Club (2016 - 2018)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Treasurer of English Language Club (2016 - 2018)<br>
+
+
 - **Seri Omega Private and International School**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Committee Member of Drama Club (2020 - 2022)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Committee Member of Cheerleading Club (2023)<br>
