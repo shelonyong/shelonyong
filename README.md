@@ -72,6 +72,8 @@ I am a computing student who loves travelling, adventure, and continuous learnin
 <a href="https://www.github.com/shelonyong" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shelonyong?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+**E-portfolio** : <a href="https://shelonyong.github.io/My-Portfolio/" target="_blank" rel="noreferrer">https://shelonyong.github.io/My-Portfolio/
+
 # Badges
 
 <b>My GitHub Stats</b>
